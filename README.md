@@ -3,12 +3,15 @@
 ## Polytech Nice Sophia-Antipolis
 
 
-
 ### Frigolthy
 Equipe de travail:
 * Ghada Khedira
 * Rihab Zaafouri
+
 ### Introduction
+ce projet est réaliser dans le cadre d'un apprentissage academique du module des terminaux mobiles de la majeur IAM. Il vise à integrer le concept de l'embarqué avec les applications mobiles à travers la communication entre les capteurs , les differents composants embarqués ainsi que les services web integrés.
+
+### Contexte de realisation
 Les nouvelles technologies sont devenues primordiales dans notre vie quotidienne, alors pour nous permettre de garder une vie saine et de préparer des repas équilibrés en quelques minutes nous avons décidé de créer une application mobile intitulée "Frigolthy" (Frigo-healthy). 
 Cette application nous proposera des recettes avec un coût minimal, avec des produits qui existent réellement dans notre réfrigérateur et elle veillera à ce qu'on ne dépasse pas la date d'expiration de nos aliments.
 
