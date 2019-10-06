@@ -36,6 +36,19 @@ Cette technologie offre plein d'avantages , nous allons les decrire selon les as
 ## Data Hosting / server
 Dans cette partie , on va utiliser l'outils AlwaysData: un serveur en ligne gratuit qui permet de créer des API pour accéder aux differents Data . possibiltés de developper avec le language de votre choix.
 
+# Planning/Conduite du projet
+
+## Sprint 0
+Dans cette partie , on va mettre en place l'environnement technologique et definir le sujet clairement , Renseignement et documentation ainsi que la planification . 
+## Sprint 1
+premierement , on souhaite mettre en place une application basique où l'utilisateur peut entrer les coordonnées relatifs au produit acheté : saisir le nom du produit et prendre avec l'appareil photo du telephone l'image de la date de fabrication et d'expiration du produit en question pour ensuite notifier l'utilisateur s'il y a un produit qui va bientot s'expirer .
+## Sprint 2
+ce sprint consiste à ameliorer l'application et la saisie des differentes dates soient manuscrites ou mal-imprimés oubien aussi mal-photographié . Aprés le faite de lire l'information prise en photo , les données seront stockés dans notre serveur et par la suite traités .
+## Sprint 3
+Durant ce sprint on souhaite analyser les données a travers le machine learning , permettre à l'algorithme de reconnaissance de caractere de mieu capter les differentes formes des lettres et des chiffres . Ainsi que effectuer different test aleatoires pour trainer l'algorithme à lire les differentes formes compliqués ou illisibles .
+## Sprint 4
+Dans ce sprint , nous souhaitons ameliorer notre application et la porter vers de nouveau horisons à travers le concepts de machine learning qui va cumuler les données et en créer une base interne afin d'y stocker les differentes formes possibles ,pour accelerer l'operation de reconnaissance et de lecture de l'image prise par l'utilisateur .
+
 ### Les capteurs
 * Empreinte digitale
 * Appareil photo
