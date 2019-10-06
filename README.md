@@ -20,6 +20,12 @@ Cette application nous proposera des recettes avec un coût minimal, avec des pr
 *  L'utilisateur scanne les dates de fabrication et les dates d'expiration des produits achetés avec la caméra du téléphone. Par suite, les dates scannées vont être traitées à l'aide d'un algorithme de reconnaissance d'écriture, afin d'alerter l'utilisateur en cas de dépassement de ces dates.
 *  Notre application vous proposera des recettes faciles et des repas healthy rapides en fonction des ingrédients disponibles dans votre frigo.
 * Dans le cas d'absence d'un ingrédient nécessaire pour la préparation d'une recette choisie, Frigolthy vous proposera aussi le magasin le plus proche de votre emplacement par le biais du GPS.
+
+### Choix Technologique 
+### Developpement Mobile
+Dans cette partie , on va developper une application mobile avec Kotlin , un language crée par Google facilitant le developpement mobile avec Android. Ce dernier est  plus riche comparant avec Java , flexible et concis.c'est un language de programmation orienté objet et fonctionnel , avec un typage statique qui permet de compiler pour la machine virtuelle Java et JavaScript . 
+
+
 ### Les capteurs
 * Empreinte digitale
 * Appareil photo
