@@ -11,7 +11,7 @@ Equipe de travail:
 ### Introduction
 ce projet est réaliser dans le cadre d'un apprentissage academique du module des terminaux mobiles de la majeur IAM. Il vise à integrer le concept de l'embarqué avec les applications mobiles à travers la communication entre les capteurs , les differents composants embarqués ainsi que les services web integrés.
 
-### Contexte de realisation
+### Contexte de réalisation
 Les nouvelles technologies sont devenues primordiales dans notre vie quotidienne, alors pour nous permettre de garder une vie saine et de préparer des repas équilibrés en quelques minutes nous avons décidé de créer une application mobile intitulée "Frigolthy" (Frigo-healthy). 
 Cette application nous proposera des recettes avec un coût minimal, avec des produits qui existent réellement dans notre réfrigérateur et elle veillera à ce qu'on ne dépasse pas la date d'expiration de nos aliments.
 
@@ -23,7 +23,7 @@ Cette application nous proposera des recettes avec un coût minimal, avec des pr
 
 # Choix Technologique 
 
-## Developpement Mobile
+## Développement Mobile
 Dans cette partie , on va developper une application mobile avec Kotlin , un language crée par Google facilitant le developpement mobile avec Android. Ce dernier est  plus riche comparant avec Java , flexible et concis.c'est un language de programmation orienté objet et fonctionnel , avec un typage statique qui permet de compiler pour la machine virtuelle Java et JavaScript . 
 
 Cette technologie offre plein d'avantages , nous allons les decrire selon les aspects suivant:
