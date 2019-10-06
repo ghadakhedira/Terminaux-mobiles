@@ -9,7 +9,7 @@ Equipe de travail:
 * Rihab Zaafouri
 
 ### Introduction
-ce projet est réaliser dans le cadre d'un apprentissage academique du module des terminaux mobiles de la majeur IAM. Il vise à integrer le concept de l'embarqué avec les applications mobiles à travers la communication entre les capteurs , les differents composants embarqués ainsi que les services web integrés.
+ce projet est réalisé dans le cadre d'un apprentissage academique du module des terminaux mobiles de la majeur IAM. Il vise à integrer le concept de l'embarqué avec les applications mobiles à travers la communication entre les capteurs , les differents composants embarqués ainsi que les services web integrés.
 
 ### Contexte de réalisation
 Les nouvelles technologies sont devenues primordiales dans notre vie quotidienne, alors pour nous permettre de garder une vie saine et de préparer des repas équilibrés en quelques minutes nous avons décidé de créer une application mobile intitulée "Frigolthy" (Frigo-healthy). 
@@ -58,9 +58,7 @@ Durant ce sprint on souhaite analyser les données a travers le machine learning
 Dans ce sprint , nous souhaitons ameliorer notre application et la porter vers de nouveau horisons à travers le concepts de machine learning qui va cumuler les données et en créer une base interne afin d'y stocker les differentes formes possibles ,pour accelerer l'operation de reconnaissance et de lecture de l'image prise par l'utilisateur .
 
 ### Les capteurs
-* Empreinte digitale
 * Appareil photo
-* GPS
 ### Environnement de développement
 * Android Studio
 ### Langage de programmation
