@@ -26,6 +26,14 @@ Cette application nous proposera des recettes avec un coût minimal, avec des pr
 ## Developpement Mobile
 Dans cette partie , on va developper une application mobile avec Kotlin , un language crée par Google facilitant le developpement mobile avec Android. Ce dernier est  plus riche comparant avec Java , flexible et concis.c'est un language de programmation orienté objet et fonctionnel , avec un typage statique qui permet de compiler pour la machine virtuelle Java et JavaScript . 
 
+Cette technologie offre plein d'avantages , nous allons les decrire selon les aspects suivant:
+
+* UX:
+* Developpement:
+* Design:
+* Maintenance:
+
+
 
 ### Les capteurs
 * Empreinte digitale
