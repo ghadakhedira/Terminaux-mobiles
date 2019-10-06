@@ -21,8 +21,9 @@ Cette application nous proposera des recettes avec un coût minimal, avec des pr
 *  Notre application vous proposera des recettes faciles et des repas healthy rapides en fonction des ingrédients disponibles dans votre frigo.
 * Dans le cas d'absence d'un ingrédient nécessaire pour la préparation d'une recette choisie, Frigolthy vous proposera aussi le magasin le plus proche de votre emplacement par le biais du GPS.
 
-### Choix Technologique 
-### Developpement Mobile
+# Choix Technologique 
+
+## Developpement Mobile
 Dans cette partie , on va developper une application mobile avec Kotlin , un language crée par Google facilitant le developpement mobile avec Android. Ce dernier est  plus riche comparant avec Java , flexible et concis.c'est un language de programmation orienté objet et fonctionnel , avec un typage statique qui permet de compiler pour la machine virtuelle Java et JavaScript . 
 
 
