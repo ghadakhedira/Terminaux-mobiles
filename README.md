@@ -70,9 +70,9 @@ Dans cette page il y aure la description de l'application
 et un formulaire d'inscription ou bien de connexion
 
 ### Interface 2:
-dans cette page l'utilisateur peut consulter sa liste de produit ou 
-bien en ajoouter d'autres
+Dans cette page l'utilisateur peut consulter sa liste de produit ou 
+bien en ajouter d'autres
 
 ### Interface 3:
-Dans le cas d'jout d'un nouveau produit, l'utilisateur va entrer le nom du produit
+Dans le cas d'ajout d'un nouveau produit, l'utilisateur va entrer le nom du produit
 et prendre en photo la date d'expiration 
