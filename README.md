@@ -28,10 +28,10 @@ Dans cette partie , on va developper une application mobile avec Kotlin , un lan
 
 Cette technologie offre plein d'avantages , nous allons les decrire selon les aspects suivant:
 
-* UX:
-* Developpement:
-* Design:
-* Maintenance:
+* UX: Il offre de trés bonne performance et scalable , de sorte qu'il est un code natif , il nous assure la portabilité du code et la varieté de la faisabilité tout en gardant des meilleurs fonctionnalités 
+* Developpement: Notre outils de developpement sera Android Studio , IntelliJ ou même Visual Code , et ce  afin de guarantir une compilation plus rapide grâce à la possibilité de recharge automatique lors du changement du code et de façon instantannée . 
+* Design: Integration de plein d'outils d'animation et faire recourt aux composants matériels deja existants
+* Maintenance: Deboggage de l'application en cas de besoin. Maintenabilité de l'application de sorte qu'elle est supporté par un language developpé par Google. Anciennes versions sont supportés
 
 
 
