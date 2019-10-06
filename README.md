@@ -3,7 +3,7 @@
 ## Polytech Nice Sophia-Antipolis
 
 
-### Frigolthy
+### Reconnaissance DLC
 Equipe de travail:
 * Ghada Khedira
 * Rihab Zaafouri
@@ -35,6 +35,14 @@ Cette technologie offre plein d'avantages , nous allons les decrire selon les as
 
 ## Data Hosting / server
 Dans cette partie , on va utiliser l'outils AlwaysData: un serveur en ligne gratuit qui permet de créer des API pour accéder aux differents Data . possibiltés de developper avec le language de votre choix.
+Nous pouvons déjà établir que son utilisation se couplera très bien avec Kotlin, car tous les deux développés pour s'adapter avec different environnemnt. Ses autres avantages sont :
+* Des bibliothèques clients efficaces.
+* Support complet.
+* Un ensemble de règles de sécurité compréhensif.
+always data prévoit une utilisation gratuite, permettant largement de développer l'application sans payer. 
+
+## Backend 
+Afin de pouvoir traiter les données aisemment , nous pourrons utiliser Kotlin qui permet de creer une harmonie robuste avec les données qu'on tente de recuperer .
 
 # Planning/Conduite du projet
 
