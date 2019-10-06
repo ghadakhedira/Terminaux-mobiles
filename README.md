@@ -33,7 +33,8 @@ Cette technologie offre plein d'avantages , nous allons les decrire selon les as
 * Design: Integration de plein d'outils d'animation et faire recourt aux composants matériels deja existants
 * Maintenance: Deboggage de l'application en cas de besoin. Maintenabilité de l'application de sorte qu'elle est supporté par un language developpé par Google. Anciennes versions sont supportés
 
-
+## Data Hosting / server
+Dans cette partie , on va utiliser l'outils AlwaysData: un serveur en ligne gratuit qui permet de créer des API pour accéder aux differents Data . possibiltés de developper avec le language de votre choix.
 
 ### Les capteurs
 * Empreinte digitale
