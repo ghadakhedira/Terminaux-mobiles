@@ -63,3 +63,16 @@ Dans ce sprint , nous souhaitons ameliorer notre application et la porter vers d
 * Android Studio
 ### Langage de programmation
 * Kotlin
+
+# Les esquisses de notre GUI/Web App
+### Interface 1: "Accueil"
+Dans cette page il y aure la description de l'application
+et un formulaire d'inscription ou bien de connexion
+
+### Interface 2:
+dans cette page l'utilisateur peut consulter sa liste de produit ou 
+bien en ajoouter d'autres
+
+### Interface 3:
+Dans le cas d'jout d'un nouveau produit, l'utilisateur va entrer le nom du produit
+et prendre en photo la date d'expiration 
